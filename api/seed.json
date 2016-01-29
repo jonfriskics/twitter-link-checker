@@ -1,0 +1,745 @@
+{
+  "tweets": [
+    {
+      "created_at": "Fri Jan 29 17:04:18 +0000 2016",
+      "id": 693117474225659900,
+      "id_str": "693117474225659905",
+      "text": "David Greene is an Audio Engineering Society member - are you?\nhttps://t.co/aSYa51w0Sl #AESorg #proaudio https://t.co/0l1ju8LI4f",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 26755733,
+        "id_str": "26755733",
+        "name": "Audio Eng Society",
+        "screen_name": "AESorg",
+        "location": "",
+        "description": "The Audio Engineering Society (AES), now in its sixth decade, is the only professional society devoted exclusively to audio technology.",
+        "url": "http://t.co/KIwTtTWTbo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/KIwTtTWTbo",
+                "expanded_url": "http://www.aes.org",
+                "display_url": "aes.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 40926,
+        "friends_count": 2541,
+        "listed_count": 961,
+        "created_at": "Thu Mar 26 14:05:56 +0000 2009",
+        "favourites_count": 476,
+        "utc_offset": -25200,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2359,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/19912651/twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/19912651/twitter.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/110720449/aes-logo_75x75_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/110720449/aes-logo_75x75_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26755733/1354572326",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AESorg",
+            "indices": [
+              87,
+              94
+            ]
+          },
+          {
+            "text": "proaudio",
+            "indices": [
+              95,
+              104
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aSYa51w0Sl",
+            "expanded_url": "http://www.aes.org/join/david_greene/",
+            "display_url": "aes.org/join/david_gre…",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 693117347603824600,
+            "id_str": "693117347603824643",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ5yjiuWQAMyn8K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ5yjiuWQAMyn8K.jpg",
+            "url": "https://t.co/0l1ju8LI4f",
+            "display_url": "pic.twitter.com/0l1ju8LI4f",
+            "expanded_url": "http://twitter.com/AESorg/status/693117474225659905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 499,
+                "h": 536,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 499,
+                "h": 536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 364,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 693117347603824600,
+            "id_str": "693117347603824643",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZ5yjiuWQAMyn8K.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZ5yjiuWQAMyn8K.jpg",
+            "url": "https://t.co/0l1ju8LI4f",
+            "display_url": "pic.twitter.com/0l1ju8LI4f",
+            "expanded_url": "http://twitter.com/AESorg/status/693117474225659905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 499,
+                "h": 536,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 499,
+                "h": 536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 364,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "possibly_sensitive_appealable": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 29 17:03:29 +0000 2016",
+      "id": 693117270629957600,
+      "id_str": "693117270629957633",
+      "text": "RT @Install8ion: .@connessionibiz to present AudioForum pre-show at #ISE2016 with @AESorg #avtweeps https://t.co/QTGaAd8tBU https://t.co/Hs…",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 26755733,
+        "id_str": "26755733",
+        "name": "Audio Eng Society",
+        "screen_name": "AESorg",
+        "location": "",
+        "description": "The Audio Engineering Society (AES), now in its sixth decade, is the only professional society devoted exclusively to audio technology.",
+        "url": "http://t.co/KIwTtTWTbo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/KIwTtTWTbo",
+                "expanded_url": "http://www.aes.org",
+                "display_url": "aes.org",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 40926,
+        "friends_count": 2541,
+        "listed_count": 961,
+        "created_at": "Thu Mar 26 14:05:56 +0000 2009",
+        "favourites_count": 476,
+        "utc_offset": -25200,
+        "time_zone": "Mountain Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2359,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/19912651/twitter.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/19912651/twitter.jpg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/110720449/aes-logo_75x75_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/110720449/aes-logo_75x75_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/26755733/1354572326",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Jan 28 12:31:27 +0000 2016",
+        "id": 692686424345350100,
+        "id_str": "692686424345350145",
+        "text": ".@connessionibiz to present AudioForum pre-show at #ISE2016 with @AESorg #avtweeps https://t.co/QTGaAd8tBU https://t.co/HsbnlGcKhF",
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 19646205,
+          "id_str": "19646205",
+          "name": "Installation",
+          "screen_name": "Install8ion",
+          "location": "London",
+          "description": "Installation is the professional AV, systems business and technology news title that comprehensively covers the integration of audio, video and lighting.",
+          "url": "http://t.co/CrpkkDC62X",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/CrpkkDC62X",
+                  "expanded_url": "http://www.installation-international.com",
+                  "display_url": "installation-international.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4173,
+          "friends_count": 815,
+          "listed_count": 104,
+          "created_at": "Wed Jan 28 11:14:30 +0000 2009",
+          "favourites_count": 88,
+          "utc_offset": 0,
+          "time_zone": "London",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 4821,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "FFFFFF",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/635778766497796096/YD8HyWQO.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/635778766497796096/YD8HyWQO.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/2602746997/c2skh7l4uxw5mebvtlz1_normal.jpeg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/2602746997/c2skh7l4uxw5mebvtlz1_normal.jpeg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19646205/1440416672",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "ISE2016",
+              "indices": [
+                51,
+                59
+              ]
+            },
+            {
+              "text": "avtweeps",
+              "indices": [
+                73,
+                82
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "connessionibiz",
+              "name": "Connessioni.biz",
+              "id": 128204950,
+              "id_str": "128204950",
+              "indices": [
+                1,
+                16
+              ]
+            },
+            {
+              "screen_name": "AESorg",
+              "name": "Audio Eng Society",
+              "id": 26755733,
+              "id_str": "26755733",
+              "indices": [
+                65,
+                72
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/QTGaAd8tBU",
+              "expanded_url": "http://ow.ly/XDbuZ",
+              "display_url": "ow.ly/XDbuZ",
+              "indices": [
+                83,
+                106
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 692686423653101600,
+              "id_str": "692686423653101568",
+              "indices": [
+                107,
+                130
+              ],
+              "media_url": "http://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+              "url": "https://t.co/HsbnlGcKhF",
+              "display_url": "pic.twitter.com/HsbnlGcKhF",
+              "expanded_url": "http://twitter.com/Install8ion/status/692686424345350145/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 667,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 226,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 692686423653101600,
+              "id_str": "692686423653101568",
+              "indices": [
+                107,
+                130
+              ],
+              "media_url": "http://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+              "url": "https://t.co/HsbnlGcKhF",
+              "display_url": "pic.twitter.com/HsbnlGcKhF",
+              "expanded_url": "http://twitter.com/Install8ion/status/692686424345350145/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 600,
+                  "h": 400,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1000,
+                  "h": 667,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 226,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "possibly_sensitive_appealable": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ISE2016",
+            "indices": [
+              68,
+              76
+            ]
+          },
+          {
+            "text": "avtweeps",
+            "indices": [
+              90,
+              99
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Install8ion",
+            "name": "Installation",
+            "id": 19646205,
+            "id_str": "19646205",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "connessionibiz",
+            "name": "Connessioni.biz",
+            "id": 128204950,
+            "id_str": "128204950",
+            "indices": [
+              18,
+              33
+            ]
+          },
+          {
+            "screen_name": "AESorg",
+            "name": "Audio Eng Society",
+            "id": 26755733,
+            "id_str": "26755733",
+            "indices": [
+              82,
+              89
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QTGaAd8tBU",
+            "expanded_url": "http://ow.ly/XDbuZ",
+            "display_url": "ow.ly/XDbuZ",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 692686423653101600,
+            "id_str": "692686423653101568",
+            "indices": [
+              124,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+            "url": "https://t.co/HsbnlGcKhF",
+            "display_url": "pic.twitter.com/HsbnlGcKhF",
+            "expanded_url": "http://twitter.com/Install8ion/status/692686424345350145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 667,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 692686424345350100,
+            "source_status_id_str": "692686424345350145",
+            "source_user_id": 19646205,
+            "source_user_id_str": "19646205"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 692686423653101600,
+            "id_str": "692686423653101568",
+            "indices": [
+              124,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CZzqod6UMAAzasR.jpg",
+            "url": "https://t.co/HsbnlGcKhF",
+            "display_url": "pic.twitter.com/HsbnlGcKhF",
+            "expanded_url": "http://twitter.com/Install8ion/status/692686424345350145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1000,
+                "h": 667,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "source_status_id": 692686424345350100,
+            "source_status_id_str": "692686424345350145",
+            "source_user_id": 19646205,
+            "source_user_id_str": "19646205"
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "possibly_sensitive_appealable": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jan 29 17:03:20 +0000 2016",
+      "id": 693117234982551600,
+      "id_str": "693117234982551554",
+      "text": "@drewbarontini That looks broken. :-(",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 693112165880963100,
+      "in_reply_to_status_id_str": "693112165880963072",
+      "in_reply_to_user_id": 15298642,
+      "in_reply_to_user_id_str": "15298642",
+      "in_reply_to_screen_name": "drewbarontini",
+      "user": {
+        "id": 17035875,
+        "id_str": "17035875",
+        "name": "Olivier Lacan",
+        "screen_name": "olivierlacan",
+        "location": "Now",
+        "description": "Software bricoleur at @codeschool, word wrangler, scientific skeptic, and logic lumberjack.\n\nMultiple take bandit on @rubyfive. Co-rambler on @TheMultilogue.",
+        "url": "http://t.co/kKXWxs6ssz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/kKXWxs6ssz",
+                "expanded_url": "http://olivierlacan.com",
+                "display_url": "olivierlacan.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2486,
+        "friends_count": 460,
+        "listed_count": 220,
+        "created_at": "Wed Oct 29 04:28:49 +0000 2008",
+        "favourites_count": 14645,
+        "utc_offset": -18000,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 59583,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/628635198029189120/abeLnHHX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/628635198029189120/abeLnHHX_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "drewbarontini",
+            "name": "Drew Barontini",
+            "id": 15298642,
+            "id_str": "15298642",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}

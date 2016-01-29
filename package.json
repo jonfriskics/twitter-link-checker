@@ -1,0 +1,11 @@
+{
+  "name": "twitter-link-checker",
+  "version": "1.0.0",
+  "description": "Twitter Link Checker for finding Podcast links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Friskics",
+  "license": "ISC"
+}
